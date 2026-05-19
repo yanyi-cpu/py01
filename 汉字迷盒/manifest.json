@@ -1,0 +1,18 @@
+{
+  "name": "AI 对话系统",
+  "short_name": "AI 对话",
+  "description": "可自定义角色的 AI 聊天应用",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
